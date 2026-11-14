@@ -1,4 +1,6 @@
-# photoframe
+<img src="brand/folio.png" alt="folio" width="280">
+
+# folio-frame
 
 photoframe 是 PhotoPainter 相框上默认运行的**相框应用**：它通过蓝牙接收一张 800×480 的六色 PNG，校验后交给宿主固件刷到电子纸上，并回传完成回执。本仓库还包含三个示例应用和应用 SDK 头文件的副本。
 
